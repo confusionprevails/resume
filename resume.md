@@ -34,7 +34,7 @@ I have a proven track record of implementing and delivering software products an
     Developed high performing APIs
     Developed large scale content ingestion system
     Developed apps to manage music and sports radio content       
-	**Technical Environment** NodeJS, AngularJS, CouchDB, CloudantDB, AWS
+	**Technical Environment:** NodeJS, AngularJS, CouchDB, CloudantDB, AWS
 
 	
 ### 
@@ -50,7 +50,7 @@ I have a proven track record of implementing and delivering software products an
     
 * **InApp Notifications**
     <a href=https://play.google.com/store/apps/details?id=com.samsung.mdl.radio&hl=en class=not-printed>Milk Music App</a>
-    Designed and developed server side APIs to support InApp Notifications in Milk Music App 
+    Designed and developed server side APIs to support InApp Notifications for Milk Music App 
     	
 ------
 
@@ -61,7 +61,7 @@ I have a proven track record of implementing and delivering software products an
 	Developed several cOS Platform APIs
 	Dr.Firsts ePrescription integration into cOS Platform
 	Developed features for MeaningfulUse certification of cOS Platform	
-	**Technical Environment** Core Java, MySQL, XMaps-XBeans, Pentaho Kettle/Data Integration, HL7, JUnit.
+	**Technical Environment:** Core Java, MySQL, XMaps-XBeans, Pentaho Kettle/Data Integration, HL7, JUnit.
 	
 ### 
 
@@ -77,13 +77,13 @@ I have a proven track record of implementing and delivering software products an
 **Oracle, India** *Senior Application Engineer* __2007 to 2010__
 	Developed several key components for Oracle Fusion HCM including Extensible FlexField (EFF) Components for Fusion
 	Developed Organization structure management UIs
-	**Technical Environment** Oracle ADF, Oracle DB, JDeveloper.
+	**Technical Environment:** Oracle ADF, Oracle DB, JDeveloper
 	
 ### 
 
 * **Oracle Fusion HCM**
     <a href=https://www.oracle.com/applications/human-capital-management/solutions/index.html class=not-printed>Oracle Fusion HCM</a>
-    Developed the content ingestion from Slacker for Milk Music Website and Milk Music App
+    Worked on Oracle's Fusion Apps and developed using Oracle ADF
     
 * 
 
