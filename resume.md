@@ -1,9 +1,9 @@
 # Rajat Kumar
 ## Full Stack Developer & Code Enthusiast
 
-> [rajat.co.in](http://www.rajat.co.in)
+> [blog.rajat.co.in](http://blog.rajat.co.in)
 > [rajatkumartx@gmail.com](mailto:rajatkumartx@gmail.com)
-> (469) 279-2776
+> +1 (469) 279-@776
 
 ------
 
